@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Designer - Post and Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-25 14:02+0000\n"
+"PO-Revision-Date: 2018-08-25 14:02+0000\n"
+"Last-Translator: Admin <pratikj@wponlinesupport.com>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: blog-designer-post-and-widget.php:127
+#, php-format
+msgid "Thank you for activating %s"
+msgstr ""
+
+#: blog-designer-post-and-widget.php:128
+#, php-format
+msgid ""
+"It looks like you had PRO version %s of this plugin activated. To avoid "
+"conflicts the extra version has been deactivated and we recommend you delete "
+"it."
+msgstr ""
+
+#: includes/bdpw-functions.php:114 includes/shortcode/wpsp-post.php:140
+msgid "Previous"
+msgstr ""
+
+#: includes/bdpw-functions.php:115 includes/shortcode/wpsp-post.php:139
+msgid "Next"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:23
+msgid "Blog Designer"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:104
+msgid ""
+"There was an error retrieving the data from the server. Please try again "
+"later."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:119
+msgid "How It Works"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:122
+msgid "Our Plugins"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:128
+#: includes/admin/class-bdpw-admin.php:77
+#: includes/admin/class-bdpw-admin.php:77
+msgid "Hire Us"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:165
+msgid "How It Works - Display and Shortcode"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:173
+msgid "Getting Started"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:177
+msgid "Step-1. Go to \"Post --> Add New\"."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:178
+msgid "Step-2. Add post title, description and images"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:179
+msgid "Step-3. Select Category and Tags"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:187
+msgid "How Shortcode Works"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:191
+msgid "Step-1. Create a page like Blog"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:192
+msgid "Step-2. Put below shortcode as per your need."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:199
+msgid "All Shortcodes"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:202
+msgid "Blog Grid Shortcode"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:203
+msgid "Recent Post Slider Shortcode"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:209
+msgid "Need Support?"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:212
+msgid "Check plugin document for shortcode parameters and demo for designs."
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:213
+msgid "Documentation"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:214
+msgid "Demo for Designs"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:232
+msgid "Upgrate to Pro"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:253
+msgid "Go Premium "
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:254
+msgid "View PRO Demo "
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:265
+msgid "Help to improve this plugin!"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:268
+msgid "Enjoyed this plugin? You can help by rate this plugin"
+msgstr ""
+
+#: includes/admin/bdpw-how-it-work.php:268
+msgid "5 stars!"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:41
+msgid "Category ID"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:74
+msgid "Upgrade to PRO - Blog Designer"
+msgstr ""
+
+#: includes/admin/class-bdpw-admin.php:74
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:110
+msgid "Tags:"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:112
+#: includes/shortcode/wpsp-recent-post-slider.php:120
+msgid "Reply"
+msgstr ""
+
+#: includes/shortcode/wpsp-post.php:112
+#: includes/shortcode/wpsp-recent-post-slider.php:120
+msgid "Replies"
+msgstr ""
+
+#: includes/shortcode/wpsp-recent-post-slider.php:118
+msgid "Tags: "
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:27
+msgid "Displayed Latest WP Post in list view "
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:28
+#: includes/widget/latest-post-widget.php:32
+msgid "Latest Blog Post List"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:65
+msgid "Title"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:72
+msgid "Number of Items"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:80
+msgid "Display Date"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:87
+msgid "Display Category"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:93
+msgid "Category"
+msgstr ""
+
+#: includes/widget/latest-post-widget.php:99
+msgid "All"
+msgstr ""
+
+#: templates/grid/design-1.php:46 templates/grid/design-2.php:32
+msgid "By"
+msgstr ""
+
+#: templates/grid/design-1.php:64 templates/grid/design-2.php:63
+#: templates/slider/design-1.php:33 templates/slider/design-2.php:39
+msgid "Read More"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:15
+msgid "Hire Us - Get unlimited expert WordPress Support and Development"
+msgstr ""
+
+#: includes/admin/settings/hire-us.php:18
+msgid "Highlight of Hiring:"
+msgstr ""
+
+#: includes/admin/settings/premium.php:15
+msgid "Blog Designer - Features"
+msgstr ""
+
+#. Name of the plugin
+msgid "Blog Designer - Post and Widget"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Display Post on your website with 2 designs(Grid and Slider) with 1 widget."
+msgstr ""
+
+#. Author of the plugin
+msgid "WP Online Support"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.wponlinesupport.com/"
+msgstr ""
