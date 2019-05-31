@@ -29,7 +29,7 @@ class Employment_Widget extends WP_Widget {
 
         echo $before_widget;
         /* Widget Content Below */
-            echo "You're current state of employment is: [$job]"; 
+            echo "You're current state of employment is: $job"; 
         /* Widget Content Above */
         echo $after_widget;
     }
