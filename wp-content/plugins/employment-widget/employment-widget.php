@@ -10,7 +10,7 @@ Author URI:
 */
 
 class Employment_Widget extends WP_Widget {
-    // Initialize Widget with Options
+    // Initialize Widget 
     public function __construct() {
         parent::__construct(
             'employment_widget',
