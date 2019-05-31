@@ -10,7 +10,7 @@ Author URI:
 */
 
 class Employment_Widget extends WP_Widget {
-    // Initialize Widget
+    // Initialize Widget with Options
     public function __construct() {
         parent::__construct(
             'employment_widget',
@@ -21,6 +21,8 @@ class Employment_Widget extends WP_Widget {
             )
         );
     }
+
+    // Widget Front End
     public function widget( $args, $instance ) {
         extract( $args );
         extract( $instance );
@@ -32,6 +34,7 @@ class Employment_Widget extends WP_Widget {
         echo $after_widget;
     }
 
+    // Widget Admin Form
     public function form( $instance ) { ?>
         <?php extract( $instance ); ?>
         <p>Set your current employment status: </p>
@@ -67,7 +70,21 @@ class Employment_Widget extends WP_Widget {
         </p>
     <?php }
 
+    // Save Options
+    public function update( $new_instance, $old_instance ) {
+        extract( $new_instance );
+        $instance = array();
 
+        $instance['job'] = ( !empty( $job ) ) ? sanitize_text_field( $job ) : null;
+
+        return $instance;
+    }
 }
+    
+
+function employment_widget() {
+    register_widget( 'Employment_Widget' );
+}
+add_action( 'widgets_init', 'employment_widget' );
 
 ?>
