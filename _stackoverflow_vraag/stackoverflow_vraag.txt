@@ -1,0 +1,11 @@
+
+Ik had mijn stackoverflow vragen de vorige periode al gesteld maar ik mocht ze gebruiken voor dit examen omdat dat toen niet ging.
+
+
+Vraag 1:
+
+https://stackoverflow.com/questions/54093253/how-to-scrape-second-p-of-webpage-using-python-and-beautifulsoup
+
+Vraag 2: 
+
+https://stackoverflow.com/questions/54163184/how-to-prevent-sqlite-data-from-disappearing-when-refreshing-web-page
