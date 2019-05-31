@@ -52,7 +52,7 @@ class Employment_Widget extends WP_Widget {
         </p>
         <p>
             <label>
-                <input type="radio" value="employed_newChallenge" name="<?php echo $this->get_field_name( 'job' ); ?>" <?php checked( $job, 'employed_newChallenge' ); ?> id="<?php echo $this->get_field_id( 'job' ); ?>" />
+                <input type="radio" value="Employed but looking for a new challenge" name="<?php echo $this->get_field_name( 'job' ); ?>" <?php checked( $job, 'employed_newChallenge' ); ?> id="<?php echo $this->get_field_id( 'job' ); ?>" />
                 <?php esc_attr_e( 'Employed but looking for a new challenge', 'text_domain' ); ?>
             </label>
         </p>
